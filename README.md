@@ -1,2 +1,3 @@
 # Managing-Location-stamped-Noti-cations.
-Tired of forgetting to perform your daily tasks, you decide it is time to use technology to help you remember.
+
+Tired of forgetting to perform your daily tasks, you decide it is time to use technology to help you remember. Instead of using a simple to-do list, however, you want your phone to do the job for you and remind you of your tasks whenever your are near the place where they should be done. For instance, you want to be reminded of submitting the PA whenever your are in college, or buy a new notebook when you visit a specific bookstore. Because you can never predict the exact position where you will be, you want the notification to be sent to you whenever your are in the area surrounding the location .
